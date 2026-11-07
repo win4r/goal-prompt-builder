@@ -1,3 +1,5 @@
+[哔哩哔哩主页](https://space.bilibili.com/3493277319825652)
+
 # goal-prompt-builder
 
 > **一个让你的 `/goal` 不跑偏的 Claude Skill。**

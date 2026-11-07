@@ -1,3 +1,5 @@
+[Bilibili profile](https://space.bilibili.com/3493277319825652)
+
 # goal-prompt-builder
 
 > **A Claude Skill for writing high-quality `/goal` prompts that don't go off the rails.**
